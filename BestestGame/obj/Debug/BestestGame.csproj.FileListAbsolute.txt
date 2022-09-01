@@ -1,0 +1,8 @@
+C:\Users\tangj\source\repos\CSharpProject\BestestGame\bin\Debug\BestestGame.exe.config
+C:\Users\tangj\source\repos\CSharpProject\BestestGame\bin\Debug\BestestGame.exe
+C:\Users\tangj\source\repos\CSharpProject\BestestGame\bin\Debug\BestestGame.pdb
+C:\Users\tangj\source\repos\CSharpProject\BestestGame\obj\Debug\BestestGame.csproj.AssemblyReference.cache
+C:\Users\tangj\source\repos\CSharpProject\BestestGame\obj\Debug\BestestGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\tangj\source\repos\CSharpProject\BestestGame\obj\Debug\BestestGame.csproj.CoreCompileInputs.cache
+C:\Users\tangj\source\repos\CSharpProject\BestestGame\obj\Debug\BestestGame.exe
+C:\Users\tangj\source\repos\CSharpProject\BestestGame\obj\Debug\BestestGame.pdb
